@@ -31,11 +31,6 @@ public class UserController {
         return userService.getAllUser();
 
     }
-//    @PostMapping("/test")
-//    public Object test(HttpServletRequest request){
-//
-//        return RedisUtil.redisGet("test");
-//
-//    }
+
 
 }
